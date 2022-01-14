@@ -21,4 +21,5 @@ Obrigatório 3 - Agora o seu sistema de teste automatizado deverá criar uma con
 Obrigatório 4 - Ao criar a conta você será direcionado ao sistema para o preenchimento do perfil. O seu teste automatizado deverá testar os formulários que estarão em cada etapa do preenchimento do perfil;
 
 Obrigatório 5 - Um vez na tela de vagas, nosso sistema de teste automatizado terá que buscar por uma empresa onde terá um ou mais resultados de vagas;
-ESTA AVALIAÇÃO FOI FEITA COM MUITO CARINHO, ESPERO QUE SEJA AVALIADA TAMBEÉM COM MUITO CARINHO.
+
+ESTA AVALIAÇÃO FOI FEITA COM MUITO CARINHO.OBRIGADO!
