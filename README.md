@@ -1,3 +1,5 @@
+Q.A. Challenge 20211029
+
 # Desafio-Coodesh
 Desafio
 Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a página Beta da Coodesh em vários aspectos como por exemplo:
