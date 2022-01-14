@@ -28,20 +28,17 @@ public class Perfil{
         return this;
     }
     public Perfil MomentoProf() throws InterruptedException {
-        Thread.sleep(1000);
         Select order = new Select(navegador.findElement(By.id("preferences.job_search"))); //
         order.selectByValue("employed_and_searching");
         //Selecionar momento profissional
         return this;
     }
     public Perfil NumContato() throws InterruptedException {
-        Thread.sleep(1000);
         navegador.findElement(By.xpath("/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/form/div[5]/div[2]/div[1]/div[1]/input")).sendKeys("93991533096");
         //inserir numero de contato
         return this;
     }
     public Perfil InseriCidade() throws InterruptedException {
-        Thread.sleep(1000);
         navegador.findElement(By.id("address.city")).sendKeys("Santarém");
         return this;
     }
